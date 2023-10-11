@@ -1,7 +1,6 @@
 /** @format */
 
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
 import { StyleSheetManager } from 'styled-components';
 import { ItemContainer, StatusSpan, AvatarImg, NameTag } from './friends.styled';
 
